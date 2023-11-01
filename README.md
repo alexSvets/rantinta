@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sasha</h1>
 <h3 align="center">I'm a frontend developer</h3>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+<img src= "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexander-shvets-40675a289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-shvets-40675a289/" height="30" width="40" /></a>
