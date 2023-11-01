@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sasha</h1>
 <h3 align="center">I'm a frontend developer</h3>
 
-<div align="center">  src= "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/></div>
+<div align="center"> <img src= "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/> </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
